@@ -24,3 +24,5 @@ console.log('------------------------------------');
 console.log(boolean + ' + ' + string + ' = ' + (boolean + string) + ' (boolean + string = concatenacion)');
 console.log(boolean + ' + ' + number + ' = ' + (boolean + number) + ' (boolean + number = suma)');
 console.log(boolean + ' + ' + boolean + ' = ' + (boolean + boolean) + ' (boolean + boolean = suma)');
+console.log('------------------------------------');
+console.log('En conclusion, concatena cuando hay un string');
